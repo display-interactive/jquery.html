@@ -5,7 +5,7 @@
     "Florian Roy"
   ],
   "description": "Polymer jquery dependencies element",
-  "main": "element/*",
+  "main": "ugo-jquery-deps.html",
   "ignore": [
     "**/.*",
     "node_modules",
