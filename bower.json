@@ -16,7 +16,7 @@
   "keywords": ["Polymer", "web-components", "jquery", "html"],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.*",
-    "jquery": "1.*"
+    "jquery": "*"
   },
   "devDependencies": {
     "web-component-tester": "*"
